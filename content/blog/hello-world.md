@@ -13,3 +13,7 @@ Welcome to my first blog post! This is a test to make sure our markdown conversi
 - [Links](/)
 
 ## Code Example
+
+```
+
+If you can see this post properly formatted on your website, everything is working!
